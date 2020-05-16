@@ -1,1 +1,1 @@
-# TeamTechno_Covid_Tracker
+# COVID Tracker
